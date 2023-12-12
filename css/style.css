@@ -1003,7 +1003,7 @@ h3 {
 
 /* line 92, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_header.scss */
 .header-area .main-header-area .social_links ul li a:hover {
-  color: #fff;
+  color: #d75621;
 }
 
 /* line 99, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_header.scss */
@@ -2210,7 +2210,7 @@ h3 {
 
 /* line 38, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_team.scss */
 .team_area .border_bottom .single_team .team_info .social_link li a:hover {
-  color: #df9321 !important;
+  color: #d75621 !important;
 }
 
 /* line 47, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_team.scss */
@@ -2425,7 +2425,7 @@ h3 {
   /* line 130, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_footer.scss */
   .footer .copy-right_text .copy_right {
     font-size: 14px;
-    text-align: center;
+    /* text-align: center; */
   }
 }
 
@@ -2473,7 +2473,7 @@ h3 {
 /* line 169, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_footer.scss */
 .footer .socail_links ul li a:hover {
   color: #fff !important;
-  background: #f9a66e;
+  background: #d75621;
 }
 
 /* line 1, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_bradcam.scss */
@@ -3079,7 +3079,7 @@ h3 {
 /* line 55, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_contact_info.scss */
 .contact_info_area .cotact_info .address_info .socail_links ul li a:hover {
   color: #fff !important;
-  background: #6EBFF9;
+  background: #d75621;
 }
 
 /*=================== contact banner start ====================*/
