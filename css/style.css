@@ -746,7 +746,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 34, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_section_title.scss */
   .section_title p br {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -2772,8 +2772,9 @@ h3 {
 }
 
 /* line 31, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_photography.scss */
-.wild_photography .wildlife_photo img {
+.wild_photography .wildlife_photo iframe {
   width: 100%;
+  height: 100%;
 }
 
 /* line 35, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_photography.scss */
